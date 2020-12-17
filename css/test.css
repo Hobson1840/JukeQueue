@@ -1,0 +1,19 @@
+body{ 
+  min-height:100vh; 
+}
+
+.caro{margin-top:56px}
+main > .container {
+ 
+  padding: 60px 15px 0;
+}
+.footer {
+  background-color: #f5f5f5;
+}
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.card-title{ text-transform: capitalize;
+}

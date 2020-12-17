@@ -27,7 +27,7 @@ const lis = watches.products.map(function (watch) {
             <div class="card-body">
               <h5 class="card-title">${watch.name}</h5>
               <p class="card-text">${watch.description}</p>
-              <a href="https://images.unsplash.com/${watch.img}" class="btn btn-primary">View Plan</a>
+              <a href="https://images.unsplash.com/${watch.img}" class="btn btn-primary">Join Now</a>
             </div>
           </div>
         </div>`}).join("\n\t")
